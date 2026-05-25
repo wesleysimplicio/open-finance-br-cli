@@ -24,10 +24,12 @@ A comparação abaixo é uma **estimativa conservadora** para a fase de descober
 
 | Abordagem | Pessoas típicas | Tempo de setup inicial | Observações |
 |---|---:|---:|---|
-| Time manual | PM + engenheiro(a) + QA + DevOps + técnico(a) de documentação | 2 a 5 dias úteis | exige alinhamento, reuniões e revisão cruzada |
+| Time manual | PM + engenheiro(a) + QA + DevOps + técnico(a) de documentação | até 2 meses (Scrum) | exige alinhamento, cerimônias, revisões e retrabalho |
 | Fluxo automatizado | 1 engenheiro(a) orquestrando agentes | 1 a 3 horas | reaproveita contexto, reduz retrabalho e padroniza saída |
 
 **Economia estimada:** entre **70% e 90%** do tempo de setup e documentação inicial, dependendo do estado original do projeto.
+
+**Estimativa financeira desta contribuição:** considerando uma equipe manual de **5 pessoas**, com custo médio de **R$ 20 mil por pessoa/mês** por **até 2 meses**, o custo total seria de **R$ 200 mil**. Com um fluxo automatizado coordenado por **1 engenheiro(a)**, o custo estimado cai para **R$ 40 mil**. **Economia estimada: R$ 160 mil (80%)**.
 
 ## Para engenheiros e mantenedores
 
