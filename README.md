@@ -1,4 +1,4 @@
-![open-finance-br-cli — visão geral do projeto](https://v3b.fal.media/files/b/0a9b9c64/6tbp6g6zdvsJPuEz3FkY2_1iCCEv35.png)
+![open-finance-br-cli — hero com identidade da empresa e integrações com agentes](https://d2p7pg.cachecloud.net/output/3a1fe428-aad8-4a79-94fa-d4336d805927-u1_792d0188-280d-4953-a384-b81b7372249a.jpeg)
 
 # open-finance-br-cli 🏦
 
